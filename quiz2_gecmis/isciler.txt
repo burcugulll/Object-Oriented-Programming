@@ -1,0 +1,7 @@
+1 1000,ahmet
+  furkan,demir,3512,6666666666665,Isci
+2 1002,ahmet
+  furkan,demir,3516,6666666666665,Isci
+3 1004,ahmet
+  furkan,demir,3933,3333333333335,Isci1000 ALİ KAYA 3214.0 Isci 1002 MEHMET KOÇ 3215.0 Isci 1000 veli koca 3116.0 Isci
+1000 butvu huıl 3014.0 Isci 1000 hgb iş 3014.0 Isci 1000 BURCU GUL 3514.0 Isci 1002 ali kaya 3615.0 Isci 1000 ali  kaya 3515.0 Isci 1002 veli kaya 4021.0 Isci 
